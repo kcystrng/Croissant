@@ -1,7 +1,16 @@
 body {
-  background-color: lightgreen;
-  margin: 25px, 30px;
+  background-color: #fcd5b0;
 }
-img {
-  margin: 25px auto;
+h1,
+p {
+  text-align: center;
+  color: #390e05;
+}
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #390e05;
 }
